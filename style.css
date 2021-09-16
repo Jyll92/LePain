@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=IM+Fell+French+Canon&display=swap');
+
+body {
+    font-family: 'IM Fell French Canon', serif;
+}
+
+#showcase {
+    background: url(./Images/header.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 95vh;
+    color: white;
+
+}
